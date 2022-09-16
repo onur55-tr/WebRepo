@@ -1,3 +1,6 @@
 [submodule "Php-Dinamic-QR"]
 	path = Php-Dinamic-QR
 	url = https://github.com/onur55-tr/Php-Dinamic-QR.git
+[submodule "Limon-E-Ticaret"]
+	path = Limon-E-Ticaret
+	url = https://github.com/onur55-tr/Limon-E-Ticaret
