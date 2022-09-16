@@ -13,3 +13,6 @@
 [submodule "Web-Chat"]
 	path = Web-Chat
 	url = https://github.com/onur55-tr/Web-Chat
+[submodule "Magento-E-ticaret"]
+	path = Magento-E-ticaret
+	url = https://github.com/onur55-tr/Magento-E-ticaret
