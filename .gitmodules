@@ -7,3 +7,6 @@
 [submodule "Social-Blog-Script"]
 	path = Social-Blog-Script
 	url = https://github.com/onur55-tr/Social-Blog-Script
+[submodule "Zone-Web"]
+	path = Zone-Web
+	url = https://github.com/onur55-tr/Zone-Web
