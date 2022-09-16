@@ -4,3 +4,6 @@
 [submodule "Limon-E-Ticaret"]
 	path = Limon-E-Ticaret
 	url = https://github.com/onur55-tr/Limon-E-Ticaret
+[submodule "Social-Blog-Script"]
+	path = Social-Blog-Script
+	url = https://github.com/onur55-tr/Social-Blog-Script
