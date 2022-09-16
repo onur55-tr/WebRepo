@@ -10,3 +10,6 @@
 [submodule "Zone-Web"]
 	path = Zone-Web
 	url = https://github.com/onur55-tr/Zone-Web
+[submodule "Web-Chat"]
+	path = Web-Chat
+	url = https://github.com/onur55-tr/Web-Chat
